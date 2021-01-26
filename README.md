@@ -1,6 +1,6 @@
 # Perceptron
 
-#### A perceptron attempt, here are some resources I found to be very useful:
+#### A perceptron attempt for a linear classifier, here are some resources I found to be very useful:
 
 - [This video is really easy to understand](https://www.youtube.com/watch?v=4Gac5I64LM4&t=688s&ab_channel=ritvikmath)
 - [And this one saved me!](https://www.youtube.com/watch?v=OVHc-7GYRo4&ab_channel=BrianFaure)
