@@ -9,3 +9,16 @@
 - [A very nice example](https://www.askpython.com/python/examples/single-perceptron-neural-network)
 - [Neural network from scratch](https://jtsulliv.github.io/perceptron/)
 
+## Discussion:
+
+#### What is the optimal number of iterations? 
+
+Based on the learning algorithm here the ideal accuracy is reached by the 4th iteration.
+Although there's also this [thing](https://leimao.github.io/blog/Perceptron-Convergence-Theorem/).
+
+#### How many solutions can the perceptron find for this binary separation problem?
+
+If we think of the algebraic expression that we are solving and if we look at the plots we
+obtain, there is an infinite number of solutions, or we can see an infinite amount of lines
+that could fit in a space where they are still correctly separating (classifying) the two
+groups of data points. [This is a useful source to check it out](http://hagan.okstate.edu/4_Perceptron.pdf).
