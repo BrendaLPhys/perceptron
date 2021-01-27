@@ -11,12 +11,18 @@
 
 ## Discussion:
 
-#### What is the optimal number of iterations? 
+### What is the optimal number of iterations? 
 
 Based on the learning algorithm here the ideal accuracy is reached by the 4th iteration.
-Although there's also this [thing](https://leimao.github.io/blog/Perceptron-Convergence-Theorem/).
+Although there's also this [thing](https://leimao.github.io/blog/Perceptron-Convergence-Theorem/). 
+The convergence theorem states that the algorithm will for sure find a solution when the data
+is linearly separable, not only that but the amount of iterations  or steps needed can be obtained 
+with R^2/d^2 where R is a certain constant and d the distance of the closest datapoint to the linear
+separate line or plane or hyperplane. 
 
-#### How many solutions can the perceptron find for this binary separation problem?
+[Perceptron Convergence Theorem in page 7](http://web.mit.edu/course/other/i2course/www/vision_and_learning/perceptron_notes.pdf)
+
+### How many solutions can the perceptron find for this binary separation problem?
 
 If we think of the algebraic expression that we are solving and if we look at the plots we
 obtain, there is an infinite number of solutions, or we can see an infinite amount of lines
