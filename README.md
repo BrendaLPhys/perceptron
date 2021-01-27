@@ -27,4 +27,4 @@ separate line or plane or hyperplane.
 If we think of the algebraic expression that we are solving and if we look at the plots we
 obtain, there is an infinite number of solutions, or we can see an infinite amount of lines
 that could fit in a space where they are still correctly separating (classifying) the two
-groups of data points. [This is a useful source to check it out](http://hagan.okstate.edu/4_Perceptron.pdf).
+groups of data points. [This is a useful resource to check it out](http://hagan.okstate.edu/4_Perceptron.pdf).
